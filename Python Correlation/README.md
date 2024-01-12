@@ -11,10 +11,10 @@ The primary goal of this project is to uncover insights into the relationships b
 ## How to Use
 
 1. **Download the Dataset:**
-   - Download the movie dataset from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies) and save it as `movies.csv` in the same directory as the Python script.
+   - Download the movie dataset from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies) and save it as `movies.csv'.
 
 2. **Run the Script:**
-   - Open the Python script (`movie_correlation.py`) in a Python environment.
+   - Open the Python script in a Python environment.
    - Ensure that you have the required libraries installed (pandas, numpy, seaborn, and matplotlib).
    - Execute the script to load, clean, and analyze the movie dataset.
 
