@@ -13,10 +13,6 @@ The purpose of this project is to offer users a quick and easy way to determine 
 1. **Run the Script:**
    - Run the script by executing it in a Python environment.
 
-    ```bash
-    python bmi_calculator.py
-    ```
-
 2. **Enter Personal Information:**
    - Enter your name, weight in pounds, and height in inches when prompted by the script.
 
