@@ -11,7 +11,7 @@ The primary goal of this project is to uncover insights into the relationships b
 ## How to Use
 
 1. **Download the Dataset:**
-   - Download the movie dataset from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies) and save it as `movies.csv'.
+   - Download the movie dataset from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies) and save it as 'movies.csv'.
 
 2. **Run the Script:**
    - Open the Python script in a Python environment.
